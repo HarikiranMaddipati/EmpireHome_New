@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-04T10:38:13 IST" name="Default suite" finished-at="2024-01-04T10:38:26 IST" duration-ms="13341">
+  <suite started-at="2024-01-04T11:02:19 IST" name="Default suite" finished-at="2024-01-04T11:02:34 IST" duration-ms="14495">
     <groups>
     </groups>
-    <test started-at="2024-01-04T10:38:13 IST" name="Default test" finished-at="2024-01-04T10:38:26 IST" duration-ms="13341">
-      <class name="com.qa.Testcases.Testcase_login">
-        <test-method is-config="true" signature="inta()[pri:0, instance:com.qa.Testcases.Testcase_login@3e11f9e9]" started-at="2024-01-04T10:38:13 IST" name="inta" finished-at="2024-01-04T10:38:23 IST" duration-ms="9532" status="PASS">
+    <test started-at="2024-01-04T11:02:19 IST" name="Default test" finished-at="2024-01-04T11:02:34 IST" duration-ms="14495">
+      <class name="com.qa.Testcases.TestCase_logout">
+        <test-method is-config="true" signature="inta1()[pri:0, instance:com.qa.Testcases.TestCase_logout@957e06]" started-at="2024-01-04T11:02:19 IST" name="inta1" finished-at="2024-01-04T11:02:29 IST" duration-ms="9417" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- inta -->
-        <test-method signature="log()[pri:0, instance:com.qa.Testcases.Testcase_login@3e11f9e9]" started-at="2024-01-04T10:38:23 IST" name="log" finished-at="2024-01-04T10:38:26 IST" duration-ms="3778" status="PASS">
+        </test-method> <!-- inta1 -->
+        <test-method signature="log1()[pri:0, instance:com.qa.Testcases.TestCase_logout@957e06]" started-at="2024-01-04T11:02:29 IST" name="log1" finished-at="2024-01-04T11:02:34 IST" duration-ms="5027" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- log -->
-      </class> <!-- com.qa.Testcases.Testcase_login -->
+        </test-method> <!-- log1 -->
+      </class> <!-- com.qa.Testcases.TestCase_logout -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
